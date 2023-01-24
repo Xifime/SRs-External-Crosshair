@@ -1,0 +1,18 @@
+﻿<Window x:Class="ARKCrosshair.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ARKCrosshair"
+        mc:Ignorable="d"
+        Title="Interface" Height="350" Width="250" AllowDrop="True" ResizeMode="CanMinimize" Closed="OnUIClose" Drop="OnCHairDrop" DragEnter="OnCHairDragEnter">
+    <Grid>
+        <Canvas x:Name="va">
+            <Image x:Name="Img" HorizontalAlignment="Left" Height="225" Margin="10,10,0,0" VerticalAlignment="Top" Width="225"/>
+            <Button x:Name="Update" Content="Обновить" Click="Update_Click" Canvas.Left="135" Canvas.Top="269" HorizontalAlignment="Left" VerticalAlignment="Center" Width="95" Height="38"/>
+        </Canvas>
+        <CheckBox x:Name="Enabler" Content="Включить прицел" HorizontalAlignment="Left" Margin="7,292,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.023,0.11" Unchecked="Disable" Checked="Enable"/>
+        <TextBox x:Name="Size" HorizontalAlignment="Left" Margin="8,269,0,0" TextWrapping="Wrap" Text="64" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

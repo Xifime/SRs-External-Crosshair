@@ -1,0 +1,16 @@
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\bin\Release\ARKCrosshair.exe.config
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\bin\Release\ARKCrosshair.exe
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\bin\Release\ARKCrosshair.pdb
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\ARKCrosshair.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\ARKCrosshair.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\MainWindow.g.cs
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\App.g.cs
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\ARKCrosshair_MarkupCompile.cache
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\ARKCrosshair_MarkupCompile.lref
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\MainWindow.baml
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\ARKCrosshair.g.resources
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\ARKCrosshair.Properties.Resources.resources
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\ARKCrosshair.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\ARKCrosshair.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\ARKCrosshair.exe
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\ARKCrosshair.pdb

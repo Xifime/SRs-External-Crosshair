@@ -1,0 +1,30 @@
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\SR's External Crosshair.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\SR's External Crosshair.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\MainWindow.g.cs
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\App.g.cs
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\MainWindow.baml
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\SR's External Crosshair.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\SR's External Crosshair.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\bin\Release\SRsExternalCrosshair.exe
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\bin\Release\SRsExternalCrosshair.pdb
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\SRsExternalCrosshair_MarkupCompile.cache
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\SRsExternalCrosshair_MarkupCompile.lref
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\SRsExternalCrosshair.g.resources
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\SRsExternalCrosshair.Properties.Resources.resources
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\SRsExternalCrosshair.exe
+C:\Users\Ivan\source\repos\ARKCrosshair\ARKCrosshair\obj\Release\SRsExternalCrosshair.pdb
+D:\allrepos\ARKCrosshair\ARKCrosshair\bin\Release\SRsExternalCrosshair.exe
+D:\allrepos\ARKCrosshair\ARKCrosshair\bin\Release\SRsExternalCrosshair.pdb
+D:\allrepos\ARKCrosshair\ARKCrosshair\obj\Release\SR's External Crosshair.csproj.AssemblyReference.cache
+D:\allrepos\ARKCrosshair\ARKCrosshair\obj\Release\SR's External Crosshair.csproj.SuggestedBindingRedirects.cache
+D:\allrepos\ARKCrosshair\ARKCrosshair\obj\Release\MainWindow.g.cs
+D:\allrepos\ARKCrosshair\ARKCrosshair\obj\Release\App.g.cs
+D:\allrepos\ARKCrosshair\ARKCrosshair\obj\Release\SRsExternalCrosshair_MarkupCompile.cache
+D:\allrepos\ARKCrosshair\ARKCrosshair\obj\Release\SRsExternalCrosshair_MarkupCompile.lref
+D:\allrepos\ARKCrosshair\ARKCrosshair\obj\Release\MainWindow.baml
+D:\allrepos\ARKCrosshair\ARKCrosshair\obj\Release\SRsExternalCrosshair.g.resources
+D:\allrepos\ARKCrosshair\ARKCrosshair\obj\Release\SRsExternalCrosshair.Properties.Resources.resources
+D:\allrepos\ARKCrosshair\ARKCrosshair\obj\Release\SR's External Crosshair.csproj.GenerateResource.cache
+D:\allrepos\ARKCrosshair\ARKCrosshair\obj\Release\SR's External Crosshair.csproj.CoreCompileInputs.cache
+D:\allrepos\ARKCrosshair\ARKCrosshair\obj\Release\SRsExternalCrosshair.exe
+D:\allrepos\ARKCrosshair\ARKCrosshair\obj\Release\SRsExternalCrosshair.pdb
